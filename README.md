@@ -1,4 +1,5 @@
 # 👨‍💻 Ellyn REDHEUIL
 > **Postdoctoral Researcher at ESPCI Paris-PSL**
 
-* En construction - Dernière mise à jour : Mars 2026*
+Personal portfolio and blog — built with plain HTML, CSS, and JS.
+Hosted at eredh.github.io
