@@ -2,8 +2,9 @@
 #remote_theme: pages-themes/architect@v0.2.0
 
 
-title: Ellyn Redheuil
+#title: Ellyn Redheuil
 #logo:
 #description:
 #show_downloads: true
-theme: jekyll-theme-minimal
+#theme: jekyll-theme-minimal
+theme: null
